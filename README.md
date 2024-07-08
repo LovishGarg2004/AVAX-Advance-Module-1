@@ -50,3 +50,7 @@ https://www.loom.com/share/dc7785d974884dd88b1e81772418b727?sid=9e142f8f-4a53-41
   - Mint some tokens to your address using the `mint` function in `ERC20.sol`.
   - Deposit some tokens and receive shares in return using `Vault.sol`.
     
+## Contributors
+  - Metacrafter Lovish Garg (LinkedIn: [@LovishGarg](https://www.linkedin.com/in/lovish-garg-480b37249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+## License
+This project is licensed under the MIT License.
